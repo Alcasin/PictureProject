@@ -3,7 +3,8 @@
 
 > **This README includes both Turkish and English sections. English version is available below.**  
 > **Bu proje .NET Framework ve Windows Forms ortamında geliştirilmiştir.**
- > Bu proje, staj sürecinde bir diğer stajyer arkadaşım ile birlikte ortak geliştirilmiştir.
+
+> Bu proje, staj sürecinde bir diğer stajyer arkadaşım ile birlikte ortak geliştirilmiştir.
 
 Bu uygulama, klasör içerisindeki görselleri topluca listelemek, yeniden adlandırmak ve uzantılarını değiştirmek amacıyla geliştirilmiş bir masaüstü yazılımıdır. Sekmeli yapısıyla 3 temel işlev sunar.
 
